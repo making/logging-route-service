@@ -1,6 +1,6 @@
 # Logging Route Service
 
-CF [Route Service](https://docs.cloudfoundry.org/services/route-services.htmlgi) that logs http request and response including bodies.
+CF [Route Service](https://docs.cloudfoundry.org/services/route-services.html) that logs http request and response including bodies.
 
 
 ## Deploy
