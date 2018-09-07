@@ -1,4 +1,4 @@
-# Logging Service
+# Logging Route Service
 
 CF [Route Service](https://docs.cloudfoundry.org/services/route-services.htmlgi) that logs http request and response including bodies.
 
